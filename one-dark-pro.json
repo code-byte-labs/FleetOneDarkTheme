@@ -666,7 +666,7 @@
       "foregroundColor": "Gray 90"
     },
     "comment.doc.tag": {
-      "foregroundColor": "Cyan"
+      "foregroundColor": "#C678DD"
     },
     "comment.doc.value": {
       "foregroundColor": "Gray 120"
@@ -704,7 +704,7 @@
       "foregroundColor": "#D19A66"
     },
     "string": {
-      "foregroundColor": "#98C397"
+      "foregroundColor": "#98C379"
     },
     "string.binary": {
       "foregroundColor": "Lime"
@@ -758,15 +758,13 @@
       "foregroundColor": "#D19A66"
     },
     "identifier.parameter.js": {
-      "foregroundColor": "Lime"
+      "foregroundColor": "#D19A66"
     },
     "identifier.function.declaration": {
-      "foregroundColor": "#61AFEF",
-      "fontWeight": "SEMI_BOLD"
+      "foregroundColor": "#61AFEF"
     },
     "identifier.function.declaration.js": {
-      "foregroundColor": "#61AFEF",
-      "fontWeight": "SEMI_BOLD"
+      "foregroundColor": "#61AFEF"
     },
     "identifier.function.call": {
       "foregroundColor": "#61AFEF"
@@ -778,8 +776,7 @@
       "foregroundColor": "Lime"
     },
     "identifier.method.static": {
-      "foregroundColor": "#61AFEF",
-      "fontStyle": "ITALIC"
+      "foregroundColor": "#61AFEF"
     },
     "identifier.type": {
       "foregroundColor": "#61AFEF"
@@ -788,8 +785,7 @@
       "foregroundColor": "#E06C75"
     },
     "identifier.field.static": {
-      "foregroundColor": "#E06C75",
-      "fontStyle": "ITALIC"
+      "foregroundColor": "#E06C75"
     },
     "identifier.interface": {
       "foregroundColor": "#E5C07B"
@@ -798,19 +794,19 @@
       "foregroundColor": "#E5C07B"
     },
     "identifier.type.enum": {
-      "foregroundColor": "Blue"
+      "foregroundColor": "#E5C07B"
     },
     "identifier.type.struct": {
-      "foregroundColor": "Blue"
+      "foregroundColor": "#E5C07B"
     },
     "identifier.type.valueType": {
       "foregroundColor": "Blue Light"
     },
     "identifier.typeParameter": {
-      "foregroundColor": "Blue Light"
+      "foregroundColor": "#E5C07B"
     },
     "identifier.namedArgument": {
-      "foregroundColor": "Blue Light"
+      "foregroundColor": "#D19A66"
     },
     "identifier.other": {
       "foregroundColor": "Blue"
@@ -840,18 +836,18 @@
     },
 
     "attributeName.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#D39A63"
     },
 
     "hex.css": {
-      "foregroundColor": "Yellow"
+      "foregroundColor": "#56B6C2"
     },
 
     "identifier.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#D39A63"
     },
     "identifier.function.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#61AFEF"
     },
     "identifier.variable.css": {
       "foregroundColor": "Blue"
@@ -869,8 +865,7 @@
       "foregroundColor": "Violet"
     },
     "property.static.php": {
-      "foregroundColor": "Violet",
-      "fontStyle": "ITALIC"
+      "foregroundColor": "Violet"
     },
 
     "generic.php": {
@@ -890,16 +885,16 @@
     },
 
     "keyword.css": {
-      "foregroundColor": "Lime"
+      "foregroundColor": "#C678DD"
     },
     "keyword.extend.css": {
-      "foregroundColor": "Lime"
+      "foregroundColor": "#C678DD"
     },
     "keyword.global.css": {
-      "foregroundColor": "Lime"
+      "foregroundColor": "#C678DD"
     },
     "keyword.important.css": {
-      "foregroundColor": "Lime"
+      "foregroundColor": "#C678DD"
     },
 
     "mixin.css": {
@@ -907,18 +902,18 @@
     },
 
     "number.css": {
-      "foregroundColor": "Yellow"
+      "foregroundColor": "#D19A66"
     },
     "number.unit.css": {
-      "foregroundColor": "Yellow"
+      "foregroundColor": "#D19A66"
     },
 
     "propertyName.css": {
-      "foregroundColor": "Cyan"
+      "foregroundColor": "#ABB2BF"
     },
 
     "propertyValue.css": {
-      "foregroundColor": "Pink"
+      "foregroundColor": "#D19A66"
     },
 
     "punctuation.css": {
@@ -929,26 +924,26 @@
       "foregroundColor": "Violet"
     },
     "selector.id.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#61AFEF"
     },
     "selector.class.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#D39A63"
     },
     "selector.pseudo.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#56B6C2"
     },
     "selector.tag.css": {
-      "foregroundColor": "Violet"
+      "foregroundColor": "#E06C75"
     },
 
     "string.css": {
-      "foregroundColor": "Pink"
+      "foregroundColor": "#98C379"
     },
 
     "url.css": {
-      "foregroundColor": "Blue Light",
+      "foregroundColor": "#D19A66",
       "textDecoration": {
-        "color": "#546267"
+        "color": "#D19A66"
       }
     },
 
@@ -971,7 +966,6 @@
     },
     "markup.href": {
       "foregroundColor": "Pink",
-      "fontStyle": "ITALIC",
       "textDecoration": {}
     },
     "punctuation": {
